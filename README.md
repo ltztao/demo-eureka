@@ -7,7 +7,7 @@ eureka整理点：
 
 
 # 解决Eureka Server不剔除已关停的节点的问题  
-server端配置： 
+server端配置：  
 eureka:  
 &emsp;&emsp;server:  
 &emsp;&emsp;&emsp;# 设为false，关闭自我保护主要  
