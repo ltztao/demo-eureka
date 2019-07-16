@@ -1,4 +1,4 @@
-eureka-server demo 整理  
+eureka-server 注册中心 demo 整理  
 eureka整理点：  
          1、集群  
          2、单点  
