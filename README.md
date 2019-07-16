@@ -1,8 +1,8 @@
 eureka-server 注册中心 demo 整理  
 eureka整理点：  
-&ensp;1、集群  
-&ensp;2、单点  
-&ensp;3、控制面板权限控制  
+&emsp;&emsp;&emsp;1、集群   
+&emsp;&emsp;&emsp;2、单点    
+&emsp;&emsp;&emsp;3、控制面板权限控制    
 
 
 
